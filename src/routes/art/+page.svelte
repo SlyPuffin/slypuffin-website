@@ -1,6 +1,6 @@
 <style>
   video {
-    width: 15%;
+    width: 20%;
     height: auto;
   }
 </style>
