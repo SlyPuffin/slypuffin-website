@@ -1,10 +1,10 @@
 <script>
-  import ExpandableList from '../../components/ExpandableList.svelte';
+  import ExpandableList from '$lib/components/ExpandableList.svelte';
   const items = [
     {
       title: 'A Philosphy of Software Design',
       links: [
-        { text: 'Ch. 2 (home)', href: '/' },
+        { text: 'Ch. 2', href: '/blog/posd/ch02' },
         { text: 'Ch. 3 (home)', href: '/' },
         { text: 'Ch. 4 (art)', href: '/art' },
       ],
