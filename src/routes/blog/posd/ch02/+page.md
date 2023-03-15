@@ -1,3 +1,5 @@
+<a href='/blog/posd'>Back</a>
+
 In this series, I am going through the book "A Philosophy of Software Design" by John Ousterhout. I will summarize what I consider to be important and try to apply it to different areas of my own experience.
 
 # Chapter 2
