@@ -16,5 +16,11 @@
   <video controls autoplay loop muted>
     <source src="Visualization_01_02_Wiggling_Shanghai.mp4" type="video/mp4">
   </video>
+  <video controls autoplay loop muted>
+    <source src="Visualization_01_03_Wiggling_DiscoOverlay.mp4" type="video/mp4">
+  </video>
+  <video controls autoplay loop muted>
+    <source src="Visualization_01_04_Wiggling_Rotation.mp4" type="video/mp4">
+  </video>
 </main>
 
